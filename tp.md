@@ -13,6 +13,7 @@ Elle souhaite désormais :
 
 Les informations supplémentaires : 
 - Le client est chez Orange Pro pour internet
+- On ne forme personne en interne
 
 ## 1 — Analyse du besoin
 
