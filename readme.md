@@ -7,6 +7,8 @@ la gestion de projet, c'est : planifier, **organisation**, temps, répartition,
 
 ## La gestion de projet en cascade ou "Waterfall"
 
+### Le fonctionnement de base
+
 - `Exigences clients` : prendre des informations sur le site
 - `Analyse` : Cahier des charges : fixer les besoins & solutions proposées et **vous protéger**
 - `Conception` : Maquette
@@ -16,3 +18,11 @@ la gestion de projet, c'est : planifier, **organisation**, temps, répartition,
 
 <img src="./images/waterfall.png">
 
+### Les problèmes du waterfall
+
+- C'est une méthode rigide
+- Découverte des erreurs tardives qui plantent le projet alors qu'il est (beaucoup) avancé
+- communication limitée
+- inadéquation entre le besoin exprimé et le besoin réel
+- manque de visibilité sur l'avancement
+- manque d'évolutivité
