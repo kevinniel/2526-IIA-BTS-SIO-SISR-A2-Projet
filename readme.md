@@ -26,3 +26,7 @@ la gestion de projet, c'est : planifier, **organisation**, temps, répartition,
 - inadéquation entre le besoin exprimé et le besoin réel
 - manque de visibilité sur l'avancement
 - manque d'évolutivité
+
+## Cycle en V
+
+<img src="./images/v.png">
