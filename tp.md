@@ -14,6 +14,7 @@ Elle souhaite désormais :
 Les informations supplémentaires : 
 - Le client est chez Orange Pro pour internet
 - On ne forme personne en interne
+- Pas d'info sur le budget, je laisse ouvert aux propositions
 
 ## 1 — Analyse du besoin
 
