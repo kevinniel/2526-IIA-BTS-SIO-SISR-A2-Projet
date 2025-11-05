@@ -67,16 +67,35 @@ Rappel de l'intérêt de la gestion de projet :
 
 ### 5. Réalisation
 
-- Documentation utilisateurs
 - Documentation de l'installation et de la mise en service (inclu les mdp etc...)
 - Dossier de configuration
-- 
+- Journal d'interventions (+ le temps)
 
 ### 6. Tests unitaires
+
+- Plan de test unitaire (on teste chaque élément de manière indépendante - un par un)
+- Compte rendu des tests par unité
+- Rapport d'anomalies
+- Scripts || Automation pour les tests !
+
 ### 7. Tests d'intégration
+
+- Plan de test d'intégration (on teste tous les éléments ensembles - dans leur enchainement métier)
+- Journal de résultats (= compte rendu) OK/KO
+- Rapport d'intégration (preuve de bon fonctionnement global)
+- Tests de performance
+
 ### 8. Tests de validation
+
+- Cahier de validation fonctionnel 
+- Rapport de validation (preuve que tout fonctionne)
+- Documentation utilisateurs
+
 ### 9. Recette
 
+- PV de livraison
+- Guide d'exploitation (sauvegarde, mise à jour, etc...)
+- Plan de maintenance / de supervision
 
 
 
