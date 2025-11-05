@@ -58,7 +58,20 @@ Rappel de l'intérêt de la gestion de projet :
 - Schémas techniques
 
 ### 4. Spécifications détaillées
+
+- Dossier de conception détaillé (paramètres, scripts, configs, etc...)
+- Schémas / plans de ce qui va être mis en place (définitifs)
+- Documentation des équipements 
+- Scripting 
+- Dossier de procédures
+
 ### 5. Réalisation
+
+- Documentation utilisateurs
+- Documentation de l'installation et de la mise en service (inclu les mdp etc...)
+- Dossier de configuration
+- 
+
 ### 6. Tests unitaires
 ### 7. Tests d'intégration
 ### 8. Tests de validation
