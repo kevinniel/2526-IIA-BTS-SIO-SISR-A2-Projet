@@ -5,6 +5,10 @@
 la gestion de projet, c'est : planifier, **organisation**, temps, répartition,
 écoute, besoins, demandeurs, gestion RH, coûts.
 
+Rappel de l'intérêt de la gestion de projet : 
+
+<img src="./images/culture.jpg">
+
 ## La gestion de projet en cascade ou "Waterfall"
 
 ### Le fonctionnement de base
@@ -29,4 +33,40 @@ la gestion de projet, c'est : planifier, **organisation**, temps, répartition,
 
 ## Cycle en V
 
+### Représentation
+
 <img src="./images/v.png">
+
+### 1. Analyse
+
+- Cahier des charges
+- (ou) Expression des besoins
+- Analyse de l'existant
+- Analyse des risques
+
+### 2. Spécifications fonctionnelles
+
+- Cahier des charges fonctionnel
+- Scénarios d'usages (par les utilisateurs)
+- Schémas fonctionnels
+
+### 3. Spécifications techniques
+
+- Cahier des charges technique
+- Analyse de l'existant
+- Choix des technologies et protocoles utilisés
+- Schémas techniques
+
+### 4. Spécifications détaillées
+### 5. Réalisation
+### 6. Tests unitaires
+### 7. Tests d'intégration
+### 8. Tests de validation
+### 9. Recette
+
+
+
+
+
+
+
