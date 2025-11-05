@@ -183,3 +183,10 @@ Réalise une fiche de synthèse :
 
 - Fiche bilan de projet
 - Autoévaluation du groupe - à imaginer
+
+
+
+A finaliser pour le 2 Décembre au soir (17h).
+A envoyer par mail à k.niel.pro@gmail.com 
+1h de retard = 5 points en moins par heure.
+Toute heure engagée est dûe.
