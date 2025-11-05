@@ -129,8 +129,8 @@ Teste individuellement :
 
 📄 Livrables :
 
-- Plan de test unitaire
-- Rapport d’anomalies
+- **Plan de test** unitaire
+- **Rapport d’anomalies**
 
 ## 7 — Tests d’intégration
 
@@ -146,7 +146,7 @@ Exemple :
 ### Livrables
 
 - Plan de test d’intégration
-- Rapport d’intégration
+- **Rapport d’intégration**
 
 ## 8 — Validation / Recette
 
@@ -162,7 +162,7 @@ Consignes :
 ### Livrables
 
 - Cahier de validation fonctionnel
-- PV de recette
+- **PV de recette**
 - Guide d’exploitation / maintenance
 
 ## 9 — Bilan de projet
@@ -182,4 +182,4 @@ Réalise une fiche de synthèse :
 ### Livrables
 
 - Fiche bilan de projet
-- Autoévaluation du groupe
+- Autoévaluation du groupe - à imaginer
