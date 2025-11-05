@@ -11,6 +11,9 @@ Elle souhaite désormais :
 - Sécuriser les accès (pare-feu, segmentation, sauvegarde)
 - Avoir une solution de supervision simple (type Zabbix, GLPI, Centreon, etc.)
 
+Les informations supplémentaires : 
+- Le client est chez Orange Pro pour internet
+
 ## 1 — Analyse du besoin
 
 ### Consignes
