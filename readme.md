@@ -37,6 +37,10 @@ Rappel de l'intérêt de la gestion de projet :
 
 <img src="./images/v.png">
 
+- `MOA` : Maitrise d'ouvrage
+- `MOE` : Maitrise d'oeuvre
+- `Équipe V&V` : Vérification et Validation
+
 ### 1. Analyse
 
 - Cahier des charges
